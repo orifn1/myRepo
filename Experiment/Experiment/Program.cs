@@ -8,6 +8,8 @@ namespace Experiment
         {
             // comment was added
             Console.WriteLine("===Hello world===");
+            Console.WriteLine("===Hello world===");
+            Console.WriteLine("===Hello world===");
             Console.Read();
         }
     }
