@@ -6,6 +6,7 @@ namespace Experiment
     {
         static void Main(string[] args)
         {
+            // comment
             Console.WriteLine("Hello world");
             Console.Read();
         }
