@@ -1,7 +1,0 @@
-C:\Intellias\Test\Experiment\Experiment\bin\Debug\Experiment.exe.config
-C:\Intellias\Test\Experiment\Experiment\bin\Debug\Experiment.exe
-C:\Intellias\Test\Experiment\Experiment\bin\Debug\Experiment.pdb
-C:\Intellias\Test\Experiment\Experiment\obj\Debug\Experiment.csprojResolveAssemblyReference.cache
-C:\Intellias\Test\Experiment\Experiment\obj\Debug\Experiment.csproj.CoreCompileInputs.cache
-C:\Intellias\Test\Experiment\Experiment\obj\Debug\Experiment.exe
-C:\Intellias\Test\Experiment\Experiment\obj\Debug\Experiment.pdb
